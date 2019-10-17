@@ -1,6 +1,7 @@
 # ant-design-pro-tabs-less
 
-https://github.com/dazxcd/ant-design-pro-tabs-less/blob/master/images/TIM%E5%9B%BE%E7%89%8720191017102224.png
+![image](https://github.com/dazxcd/ant-design-pro-tabs-less/blob/master/images/TIM%E5%9B%BE%E7%89%8720191017102224.png)
+
 更好看的ant-design-pro-tabs（ant-design-pro v2）
 
 使用方法: 
